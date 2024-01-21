@@ -28,5 +28,4 @@
             android:hardwareAccelerated="true"
             android:windowSoftInputMode="adjustResize" />
     </application>
-
 </manifest>
